@@ -1,0 +1,172 @@
+### JS errors detection test started on 2014/04/24 15:03:00 ###
+
+
+### Start displaying errors ###  http://www.discovery.com/
+
+Error message:  SyntaxError: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Line number:  1
+Source name:  http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+
+### Stop displaying errors ###  http://www.discovery.com/
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://www.velocity.com/
+
+Error message:  SyntaxError: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Line number:  1
+Source name:  http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+
+### Stop displaying errors ###  http://www.velocity.com/
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://www.animalplanet.com/
+
+Error message:  SyntaxError: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Line number:  1
+Source name:  http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+
+### Stop displaying errors ###  http://www.animalplanet.com/
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://www.howstuffworks.com/
+
+Error message:  TypeError: a(...).iframeTracker is not a function
+Line number:  0
+Source name:  http://www.howstuffworks.com/
+
+Error message:  SyntaxError: syntax error
+Line number:  1
+Source name:  http://www.howstuffworks.com/
+
+Error message:  SyntaxError: syntax error
+Line number:  1
+Source name:  http://www.howstuffworks.com/
+
+### Stop displaying errors ###  http://www.howstuffworks.com/
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://auto.howstuffworks.com/
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://auto.howstuffworks.com/
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://home.howstuffworks.com/lawn-and-garden.htm
+
+Error message:  Error: Error calling method on NPObject!
+Line number:  817
+Source name:  http://rmd.atdmt.com/tl/TopLayer.v3p.js
+
+### Stop displaying errors ###  http://home.howstuffworks.com/lawn-and-garden.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://money.howstuffworks.com/career-channel.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://money.howstuffworks.com/career-channel.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://people.howstuffworks.com/fake-people-quiz.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://people.howstuffworks.com/fake-people-quiz.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://science.howstuffworks.com/innovation/inventions/ballpoint-pen-quiz.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://science.howstuffworks.com/innovation/inventions/ballpoint-pen-quiz.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://science.howstuffworks.com/zoology/insects-arachnids/water-bags-repel-flies.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://science.howstuffworks.com/zoology/insects-arachnids/water-bags-repel-flies.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/airbag.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/airbag.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://history.howstuffworks.com/historical-events/10-weirdest-news-stories-of-2013.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://history.howstuffworks.com/historical-events/10-weirdest-news-stories-of-2013.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://people.howstuffworks.com/10-infamous-cults.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://people.howstuffworks.com/10-infamous-cults.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://shows.howstuffworks.com/sysk-live-on-siriusxm-pictures.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://shows.howstuffworks.com/sysk-live-on-siriusxm-pictures.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://money.howstuffworks.com/money-puzzles.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://money.howstuffworks.com/money-puzzles.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://science.howstuffworks.com/nature/natural-disasters/volcano-explorer-game.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://science.howstuffworks.com/nature/natural-disasters/volcano-explorer-game.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://auto.howstuffworks.com/under-the-hood/vehicle-maintenance/how-to-user-guides.htm
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://auto.howstuffworks.com/under-the-hood/vehicle-maintenance/how-to-user-guides.htm
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://auto.howstuffworks.com/search.php?terms=science
+
+** No JS errors were found for this url **
+
+### Stop displaying errors ###  http://auto.howstuffworks.com/search.php?terms=science
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+### Start displaying errors ###  http://www.howstuffworks.com/videos
+
+Error message:  Error: Error calling method on NPObject!
+Line number:  817
+Source name:  http://rmd.atdmt.com/tl/TopLayer.v3p.js
+
+Error message:  ReferenceError: HSW is not d

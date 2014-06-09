@@ -1,0 +1,59 @@
+### Status detection test started on 2014/04/24 17:24:12 ###
+/--------------------------------------------------------------------------------------------/
+
+
+http://www.discovery.com/ - OK - 200
+
+http://www.velocity.com/ - OK - 200
+
+http://www.animalplanet.com/ - OK - 200
+
+http://www.ex743heds8.com/ - Invalid URL
+
+http://auto.howstuffworks.com/10-concept-car-success-stoes.htm - Not Found - 404
+
+http://www.howstuffworks.com/ - OK - 200
+
+http://auto.howstuffworks.com/ - OK - 200
+
+http://home.howstuffworks.com/lawn-and-garden.htm - OK - 200
+
+http://money.howstuffworks.com/career-channel.htm - OK - 200
+
+http://people.howstuffworks.com/fake-people-quiz.htm - OK - 200
+
+http://science.howstuffworks.com/innovation/inventions/ballpoint-pen-quiz.htm - OK - 200
+
+http://science.howstuffworks.com/zoology/insects-arachnids/water-bags-repel-flies.htm - OK - 200
+
+http://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/airbag.htm - OK - 200
+
+http://history.howstuffworks.com/historical-events/10-weirdest-news-stories-of-2013.htm - OK - 200
+
+http://people.howstuffworks.com/10-infamous-cults.htm - OK - 200
+
+http://shows.howstuffworks.com/sysk-live-on-siriusxm-pictures.htm - OK - 200
+
+http://money.howstuffworks.com/money-puzzles.htm - OK - 200
+
+http://science.howstuffworks.com/nature/natural-disasters/volcano-explorer-game.htm - OK - 200
+
+http://auto.howstuffworks.com/under-the-hood/vehicle-maintenance/how-to-user-guides.htm - OK - 200
+
+http://auto.howstuffworks.com/search.php?terms=science - OK - 200
+
+http://www.howstuffworks.com/videos - OK - 200
+
+http://entertainment.howstuffworks.com/entertainment-videos.htm - OK - 200
+
+http://shows.howstuffworks.com/stuff-to-blow-your-mind/science-on-the-web-video-playlist.htm - OK - 200
+
+http://adventure.howstuffworks.com/51848-national-parks-the-dogs-of-denali-video.htm - OK - 200
+
+http://blogs.howstuffworks.com/ - OK - 200
+
+http://blogs.howstuffworks.com/2014/01/13/missed-in-history-the-battle-of-hastings/ - OK - 200
+
+http://games.howstuffworks.com/ - OK - 200
+
+http://games.howstuffworks.com/games/mah-jongg.aspx - OK - 200
